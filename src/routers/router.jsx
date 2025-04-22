@@ -60,7 +60,7 @@ const router = createBrowserRouter([
       },
       {
         path: "/books/:id",
-        element: <SingleBook />,
+        element: <Home />,
       },
       {
         path: "/user-dashboard",
